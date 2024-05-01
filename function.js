@@ -1,3 +1,4 @@
+// simple oops
 class Employe{
 ename='arzu';
 }
